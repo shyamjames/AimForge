@@ -40,6 +40,7 @@
             playPanel.Name = "playPanel";
             playPanel.Size = new Size(800, 450);
             playPanel.TabIndex = 0;
+            //playPanel.Paint += playPanel_Paint_1;
             // 
             // gameTimer
             // 
